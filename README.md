@@ -28,7 +28,7 @@ The installer will automatically handle the following:
 3.  **Configuration:** Creates the necessary configuration files.
 4.  **User Database:** Sets up a SQLite database for user management.
 5.  **SSL Certificates:** Generates self-signed certificates for secure connections.
-6.  **Systemd Service:** Configures and enables the `hysteria-server` service.
+6.  **Systemd Service:** Configures and enables the `tcp-server` service.
 7.  **Firewall Rules:** Sets up `iptables` rules for traffic forwarding.
 8.  **Manager Script:** Installs the `udpli` command for easy server management.
 
